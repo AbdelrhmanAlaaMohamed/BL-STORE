@@ -1,0 +1,62 @@
+Processor 
+AMD Ryzen™ 7 5800H Processor (8 Cores / 16 Threads, 3.20 GHz, up to 4.40 GHz with Max Boost, 4 MB Cache L2 / 16 MB Cache L3)
+
+Operating System 
+Windows 11 Home 64
+
+Display Type
+40.64cms (16.0) WQXGA (2560x1600) IPS 500nits Anti-glare 165Hz 100% sRGB Dolby Vision HDR 400 Free-Sync G-Sync DC Dimmer
+
+Memory 
+16 GB SO-DIMM DDR4 3200MHz
+
+Hard Drive 
+1 TB M.2 2280 SSD
+
+Optical Drive 
+None
+
+Warranty
+3 Years Onsite
+
+Speaker
+Stereo, Nahimic Audio™
+
+AC Adapter
+300W Slim Tip
+
+Software Preload
+Office Home and Student 2021
+
+Touch Screen 
+No
+
+Graphics 
+NVIDIA GeForce® RTX™ 3060 6GB GDDR6
+
+Ports
+4xUSB 3.2 Gen 1 (One Always On), 2xUSB-C 3.2 Gen 2, HDMI 2.1, Ethernet (RJ-45), Headphone / microphone combo jack (3.5mm)
+
+Weight
+2.4 Kgs
+
+Second Hard Drive
+None
+
+Battery 
+4 cell, 80Wh, Upto 4 hours
+
+Camera
+720p with E-camera Shutter
+
+Fingerprint Reader
+No
+
+Keyboard
+Backlit, English
+
+Wireless
+11AX (2x2) & Bluetooth® 5.1
+
+Integrated Mobile Broadband 
+No
